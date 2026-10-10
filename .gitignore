@@ -1,0 +1,13 @@
+# Databases
+*.db
+flipkart_history.db
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Cache
+__pycache__/
+*.pyc
+
